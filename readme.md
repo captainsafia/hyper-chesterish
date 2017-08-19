@@ -1,28 +1,9 @@
-# hyper-chesterish  [![npm](https://img.shields.io/npm/v/hyper-chesterish.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/hyper-chesterish) [![npm](https://img.shields.io/npm/dm/hyper-chesterish.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/hyper-chesterish)
+# hyper-chesterish-vibrancy
 
-> Chesterish Theme for [Hyper](https://hyper.is) based on [Jupyter](https://github.com/dunovank/jupyter-themes) schemes.
+This is a fork of the [hyper-chesterish](https://github.com/henrikdahl/hyper-chesterish) theme with a transparent background.
 
-![hyper-chesterish](https://cloud.githubusercontent.com/assets/1430576/21888813/3c806682-d8c6-11e6-845d-ca903b6823e8.png)
-![hyper-chesterish-tabs](https://cloud.githubusercontent.com/assets/1430576/21888817/3ef51610-d8c6-11e6-85d9-f0eabd1ee5a2.png)
+![screen shot 2017-08-19 at 9 56 04 am 2](https://user-images.githubusercontent.com/1857993/29487787-b2dc0412-84c4-11e7-958f-14543a04ac39.png)
 
+#### Installation
 
-## Install
-
-Add `hyper-chesterish` to the plugins array in your `~/.hyper.js` config.
-
-
-## Plugins
-
-* [hyper-tabs-enhanced](https://github.com/henrikdahl/hyper-tabs-enhanced)
-* [hyper-statusline](https://github.com/henrikdahl/hyper-statusline)
-
-
-## Other
-
-* [hyper-aurora](https://github.com/henrikdahl/hyper-aurora)
-* [hyper-oceans16](https://github.com/henrikdahl/hyper-oceans16)
-
-
-## License
-
-MIT © Henrik
+Add `hyper-chesterish-vibrancy` to the plugins array in `~/.hyper.js`.

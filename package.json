@@ -1,13 +1,13 @@
 {
-  "name": "hyper-chesterish",
-  "version": "1.2.8",
-  "description": "Chesterish Theme for Hyper",
+  "name": "hyper-chesterish-vibrancy",
+  "version": "1.0.0",
+  "description": "Chesterish Theme for Hyper with transparency",
   "main": "index.js",
   "license": "MIT",
-  "repository": "henrikdahl/hyper-chesterish",
+  "repository": "captainsafia/hyper-chesterish-vibrancy",
   "author": {
-    "name": "Henrik Dahlheim",
-    "email": "henrik.dahlheim@gmail.com"
+    "name": "Safia Abdalla",
+    "email": "safia@safia.rocks"
   },
   "files": [
     "index.js"
@@ -18,6 +18,6 @@
     "hyperterm",
     "hyperterm-theme",
     "chesterish",
-    "hyper-chesterish"
+    "hyper-chesterish-vibrancy"
   ]
 }
